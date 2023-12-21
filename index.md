@@ -7,3 +7,5 @@
 [使用Tabby 分析CS RCE CVE-2022-39197](./Tabby_analyze_CVE-2022-39197/index.md)
 
 [S2-066 浅析](./s2_066/index.md)
+
+.Router4 -- 应用路由扫描基础知识及核心代码分析](./Router4/index.md)

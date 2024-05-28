@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zimbracommon">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/zimbracommon.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

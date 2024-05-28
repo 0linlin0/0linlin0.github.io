@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zimbra-license">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/zimbra-license.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

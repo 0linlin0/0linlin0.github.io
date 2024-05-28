@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AdventNetADSMServer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/AdventNetADSMServer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="zohoplugin_idea:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/zohoplugin_idea_jar</output-path>
+    <root id="archive" name="zohoplugin_idea.jar">
+      <element id="module-output" name="zohoplugin_idea" />
+    </root>
+  </artifact>
+</component>

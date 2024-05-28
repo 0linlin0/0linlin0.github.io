@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="GenericAgentTools-main:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/GenericAgentTools_main_jar</output-path>
-    <root id="archive" name="GenericAgentTools-main.jar">
-      <element id="module-output" name="GenericAgentTools-main" />
-    </root>
-  </artifact>
-</component>

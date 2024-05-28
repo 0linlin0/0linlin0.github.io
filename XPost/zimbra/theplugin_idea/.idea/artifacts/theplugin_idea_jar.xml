@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="theplugin_idea:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/theplugin_idea_jar</output-path>
-    <root id="archive" name="theplugin_idea.jar">
-      <element id="module-output" name="theplugin_idea" />
-    </root>
-  </artifact>
-</component>

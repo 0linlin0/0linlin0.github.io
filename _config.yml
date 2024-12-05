@@ -1,11 +1,4 @@
 theme: jekyll-theme-slate
 title: Skay's Blog
 description: skay.rce.la
-
-nav:
-  title: Home
-  url: /
-  title: About
-  url: /about.md
-  title: Friends
-  url: /friedns.md
+layout: default

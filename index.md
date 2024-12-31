@@ -13,3 +13,5 @@
 [2023流水账](./2023_record/index.md)
 
 [Zimbra CVE-2024-45519](./Zimbra_CVE-2024-45519/index.md)
+
+[2024总结](./2024_record/index.md)
